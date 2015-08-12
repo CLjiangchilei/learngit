@@ -1,0 +1,20 @@
+<style type="text/css">
+ul,li,p,div,th, td{margin:0;padding:0;}
+li{list-style-type:none;color:#3f3f3f;font-size: 13px;font-family:Microsoft YaHei;}
+img {border: none 0}
+table {	border-collapse: collapse;	border-spacing: 0;}
+.mt30{margin-top:30px;}
+.mt20{margin-top:20px;}
+.mb30{margin-bottom:30px;}
+.ml10{margin-left:10px;}
+.ti{text-indent:30px;}
+.co{color:#505050;}
+.fl {float: left;}
+.fr{float: right;}
+.clearFix:after{content:".";clear:both;display:block;height:0;visibility:hidden}
+.clearFix{*zoom:1}
+#firsthead{font-size: 15px;font-family:Microsoft YaHei;line-height: 30px;font-weight:bold;}
+#secondhead{font-size: 14px;font-family:Microsoft YaHei;line-height: 25px;font-weight:bold;}
+#ordinaryDiv{width:730px;font-family:Microsoft YaHei;line-height:23px;font-size: 13px;}
+#divIncludeLi{width:730px;font-family:Microsoft YaHei;line-height:25px;font-size: 13px;}
+</style>
